@@ -1,7 +1,7 @@
 ### Hey, I'm Iandra Bedin! 👋
 
 ### Find me at
-🚀 [Site] (http://iandrabedin.com) <br>
+🚀 [Site](https://www.iandrabedin.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/iandrabedin) <br>
 
 <!--
