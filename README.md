@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Iandra Bedin! 👋
+
+### Find me at
+🚀 [Site] (http://iandrabedin.com) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/iandrabedin) <br>
 
 <!--
 **iandrabedin/iandrabedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
