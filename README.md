@@ -1,4 +1,5 @@
 ### Hey, I'm Iandra Bedin! 👋
+💖 Techs: React.js, React Native, Node.js and TypeScript.
 
 ### Find me at
 🚀 [Site](https://www.iandrabedin.com) <br>
